@@ -1,7 +1,3 @@
-#Zach Eggeman
-#Xander Elea
-
-
 import RPi.GPIO as GPIO
 import can
 import time
